@@ -13,7 +13,7 @@ This repository contains the source code for my JetCommerce Android application.
 
 ## Screenshots
 
-![Screenshot 1]([https://example.com/screenshot1.png](https://res.cloudinary.com/dhadtef9h/image/upload/v1700319871/ttpf1dkgln2wccpmmwnt.png))
+![Screenshot 1](https://res.cloudinary.com/dhadtef9h/image/upload/v1700319871/ttpf1dkgln2wccpmmwnt.png)
 
 ## Installation
 
