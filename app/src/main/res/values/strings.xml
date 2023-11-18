@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JetCommerce</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="total_order">Total Order : Rp %d</string>
+    <string name="back">Back</string>
+    <string name="share_message">Hey, I have %1$d clothes in JetCommerce with total Rp %2$d. Do you want too?</string>
+    <string name="menu_search">Search</string>
+    <string name="trending">Trendings</string>
+    <string name="add_cart">Add to Cart</string>
+    <string name="my_name">Muhammad Dila</string>
+    <string name="my_email">muhammaddila.all@gmail.com</string>
+    <string name="search">Search</string>
+</resources>
